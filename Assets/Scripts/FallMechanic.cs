@@ -3,26 +3,20 @@ using UnityEngine;
 
 public class FallMechanic : MonoBehaviour
 {
-    [SerializeField] float timeToFall = 5;
-    private Rigidbody _rigidBody;
     private MeshRenderer _meshRenderer;
-    
+    private Rigidbody _rigidbody;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        _rigidBody = GetComponent<Rigidbody>();
+        _rigidbody = GetComponent<Rigidbody>();
         _meshRenderer = GetComponent<MeshRenderer>();
         _meshRenderer.enabled = false;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Fall()
     {
-        if (Time.time > timeToFall)
-        {
-            _meshRenderer.enabled = true;
-            _rigidBody.useGravity = true;
-        }
-
+        _meshRenderer.enabled = true;
+        _rigidbody.useGravity = true;      
     }
 }
