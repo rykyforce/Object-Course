@@ -6,23 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b384d10-e506-4c48-ae9a-fb29e03cae32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Obstacle Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Obstacle Course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_HitTrigger.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_HitTrigger.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_Obstacle.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_Obstacle.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_ObstacleDroper.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_ObstacleDroper.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FallMechanic.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FallMechanic.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HitBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HitBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mover.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mover.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scorer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerFallMechanic.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TriggerFallMechanic.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Obstacles/Enlargement/EnlargementMechanic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Obstacles/Enlargement/EnlargementMechanic.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +102,7 @@
       <workItem from="1734307744651" duration="8182000" />
       <workItem from="1734645024745" duration="2087000" />
       <workItem from="1734809106700" duration="6925000" />
+      <workItem from="1735042493863" duration="1315000" />
     </task>
     <servers />
   </component>
