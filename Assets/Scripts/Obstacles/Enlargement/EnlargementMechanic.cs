@@ -4,7 +4,7 @@ namespace Obstacles.Enlargement
 {
     public class EnlargementMechanic : MonoBehaviour
     {
-        [Range(0f, 1f)] public float lerpTime;
+        [Range(0f, 2f)] public float lerpTime;
         private Vector3 _defaultSize;
         private bool _canEnlarge = false;
         private EnlargementMechanic _enlargementMechanic;
